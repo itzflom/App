@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Last Reel</string>
+    <string name="accessibility_description">Last Reel notices when Instagram or TikTok is open and when you scroll, so it can send you home once you hit your time limit. It cannot read anything on your screen.</string>
+</resources>
